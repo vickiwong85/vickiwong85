@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋 
 
 <!--
 **vickiwong85/vickiwong85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Languages
+JavaScript HTML5 CSS3 
+
+Frameworks & Runtime Environments
+React ReactRouter NodeJS ExpressJS jQuery Bootstrap
+
+Data
+PostgreSQL MySQL MongoDB
+
+DevTools & Deployment
+Jest Webpack Amazon AWS npm
+
+💬 Want to connect? I'd love to hear from you!
+📫 vicki.wong85@gmail.com | https://www.linkedin.com/in/vickiwong85/
