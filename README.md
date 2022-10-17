@@ -28,5 +28,5 @@
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 ---
-💬 ** Want to connect? I'd love to hear from you! **
+💬 **Want to connect? I'd love to hear from you!**
 📫 vicki.wong85@gmail.com | https://www.linkedin.com/in/vickiwong85/
