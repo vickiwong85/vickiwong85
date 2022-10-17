@@ -1,6 +1,4 @@
-### Hey there 👋 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vickiwong85&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Vicki Wong
 
 ## Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
