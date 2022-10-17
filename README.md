@@ -1,4 +1,6 @@
-### Hey there! :wave: Thanks for visiting Vicki Wong's github page. 
+# Hey there! :wave: Thanks for visiting Vicki Wong's github page. 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vickiwong85&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -25,5 +27,6 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-💬 Want to connect? I'd love to hear from you!
+---
+💬 ** Want to connect? I'd love to hear from you! **
 📫 vicki.wong85@gmail.com | https://www.linkedin.com/in/vickiwong85/
