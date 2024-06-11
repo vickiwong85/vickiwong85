@@ -30,4 +30,4 @@
 
 ---
 - 💬 **Want to connect? I'd love to hear from you!**
-- 📫 vicki.wong85@gmail.com | https://www.linkedin.com/in/vickiwong85/
+- 📫 vicki.wong85@gmail.com | https://www.linkedin.com/in/vickiwong85/ | vickiwong85.github.io
