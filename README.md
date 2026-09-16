@@ -1,7 +1,5 @@
 # Hey there! :wave: Welcome to my github profile.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vickiwong85&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## My Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typecript&logoColor=F7DF1E)
